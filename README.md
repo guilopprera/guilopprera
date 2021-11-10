@@ -8,15 +8,16 @@
 <br>
 <br>
 <div align="center" style="display: inline_block">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
 </div>
 <br>
 <br>
 <div style="display: inline_block"><br>
 <p align="center">
 &nbsp;&nbsp;
-<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="HTML" 
+     ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp;&nbsp;
 <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;
@@ -39,8 +40,7 @@
 <img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
 </p>
-</
-  >
+</ >
 <br>
 <br>
 
