@@ -1,5 +1,5 @@
-<h3>Salvee! Esse é meu perfil</h3>
-
+<h3>Seja bem-vindo ao meu santuário da programação :3</h3>
+<h4>Ah, e não repara na bagunça hahah</h4>
 <div align="center" style="display: inline_block"><br>
 <a href="https://instagram.com/ogui.lopes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermelopespereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
