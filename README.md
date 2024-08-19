@@ -1,5 +1,23 @@
-<h3>Seja bem-vindo ao meu santuário da programação :3</h3>
-<h4>Ah, e não repara na bagunça hahah</h4>
+<h3>
+## Welcome to my Coding Sanctuary! 😎
+
+Hey there! I'm Guilherme Lopes Pereira, a passionate Fullstack Developer who loves crafting clean, efficient code. 🚀  
+Feel free to explore my projects and get in touch!
+
+### GitHub Stats 📊
+- **Commits in 2024:** 21 and counting! 🔥
+- **Pull Requests:** 1 PR merged 💪
+- **Issues Resolved:** 0 (yet!) 🚧
+- **Top Languages:** C#, HTML, SCSS, TypeScript
+
+### Technologies I Love 💻
+- **Frontend:** Angular, React, HTML, SCSS
+- **Backend:** .NET Core, Node.js
+- **Databases:** SQL Server, MySQL
+- **Tools:** Docker, Git, Jenkins, Jira
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermelopespereira/) or check out my work below!
+</h3>
 <div align="center" style="display: inline_block"><br>
 <a href="https://instagram.com/ogui.lopes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermelopespereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
