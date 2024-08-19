@@ -1,33 +1,15 @@
-<h3>
-## Welcome to my Coding Sanctuary! 😎
-
-Hey there! I'm Guilherme Lopes Pereira, a passionate Fullstack Developer who loves crafting clean, efficient code. 🚀  
-Feel free to explore my projects and get in touch!
-
-### GitHub Stats 📊
-- **Commits in 2024:** 21 and counting! 🔥
-- **Pull Requests:** 1 PR merged 💪
-- **Issues Resolved:** 0 (yet!) 🚧
-- **Top Languages:** C#, HTML, SCSS, TypeScript
-
-### Technologies I Love 💻
-- **Frontend:** Angular, React, HTML, SCSS
-- **Backend:** .NET Core, Node.js
-- **Databases:** SQL Server, MySQL
-- **Tools:** Docker, Git, Jenkins, Jira
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermelopespereira/) or check out my work below!
-</h3>
+<h3>Welcome to my Coding Sanctuary! 😎</h3>
+<h4>Ah, don't mind the mess haha</h4>
 <div align="center" style="display: inline_block"><br>
-<a href="https://instagram.com/ogui.lopes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermelopespereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:gui-lopespereira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://instagram.com/ogui.lopes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
 <br>
 <div align="center" style="display: inline_block">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=github_dark&hide_border=true&locale=en"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=github_dark&hide_border=true&locale=en"/>
 </div>
 <br>
 <br>
@@ -58,14 +40,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme
 <img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
 </p>
-</ >
+</div>
 <br>
 <br>
-
-
-
- 
-
- 
- 
-                                                                                                         
