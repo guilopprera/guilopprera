@@ -5,14 +5,14 @@
 </div>
 
 ### 🚀 About Me
-[cite_start]I am a **Senior Software Engineer** with over 7 years of experience building high-impact solutions. [cite_start]Currently, I am part of the engineering team at **CVS Health**, contributing to large-scale healthcare platforms[cite: 10, 16, 24].
+I am a **Senior Software Engineer** with over 7 years of experience building high-impact solutions. Currently, I am part of the engineering team at **CVS Health**, contributing to large-scale healthcare platforms.
 
 Beyond my corporate role, I am a **passionate Independent Developer**, building custom systems and mobile applications for diverse clients, helping businesses scale through technology.
 
-* [cite_start]💼 **Current Role:** Senior Engineer at **CVS Health**[cite: 10, 16, 24].
+* 💼 **Current Role:** Senior Engineer at **CVS Health**.
 * 🛠️ **Side Projects:** Fullstack Web & Mobile Development (Freelance).
-* [cite_start]⚡ **Main Stack:** .NET Core, Angular, SQL Server & Cloud Architecture.
-* [cite_start]🧠 **Philosophy:** Clean Code, DDD, and Scalability[cite: 14, 41].
+* ⚡ **Main Stack:** .NET Core, Angular, SQL Server & Cloud Architecture.
+* 🧠 **Philosophy:** Clean Code, DDD, and Scalability.
 
 ---
 
@@ -39,8 +39,8 @@ My core expertise for corporate and independent projects:
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Guilherme's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=tokyonight" />
 </div>
 
 ---
