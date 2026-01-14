@@ -1,18 +1,18 @@
-# Hi there, I'm Guilherme Pereira! 👋
+# Hi there, I'm Guilherme Lopes! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A6F0&width=450&lines=Senior+Software+Engineer;Full+Stack+.NET+%7C+Angular;CVS+Health+Engineer;Freelance+App+Developer" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me
-I am a **Senior Software Engineer** with over 7 years of experience building high-impact solutions. Currently, I am part of the engineering team at **CVS Health**, contributing to large-scale healthcare platforms.
+[cite_start]I am a **Senior Software Engineer** with over 7 years of experience building high-impact solutions. [cite_start]Currently, I am part of the engineering team at **CVS Health**, contributing to large-scale healthcare platforms[cite: 10, 16, 24].
 
 Beyond my corporate role, I am a **passionate Independent Developer**, building custom systems and mobile applications for diverse clients, helping businesses scale through technology.
 
-* 💼 **Current Role:** Senior Engineer at **CVS Health**.
+* [cite_start]💼 **Current Role:** Senior Engineer at **CVS Health**[cite: 10, 16, 24].
 * 🛠️ **Side Projects:** Fullstack Web & Mobile Development (Freelance).
-* ⚡ **Main Stack:** .NET Core, Angular, SQL Server & Cloud Architecture.
-* 🧠 **Philosophy:** Clean Code, DDD, and Scalability.
+* [cite_start]⚡ **Main Stack:** .NET Core, Angular, SQL Server & Cloud Architecture.
+* [cite_start]🧠 **Philosophy:** Clean Code, DDD, and Scalability[cite: 14, 41].
 
 ---
 
@@ -37,10 +37,10 @@ My core expertise for corporate and independent projects:
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Guilherme's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -49,6 +49,7 @@ My core expertise for corporate and independent projects:
 I'm always open to discussing new technologies or interesting projects!
 
 <p align="left">
-<a href="https://linkedin.com/in/guilhermelopespereira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="guilhermelopespereira" /></a>
-<a href="mailto:gui-lopespereira@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/guilhermelopespereira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gui-lopespereira@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
+<a href="https://instagram.com/guilopprera" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
