@@ -1,43 +1,54 @@
-<div align="center" style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/guilhermelopespereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gui-lopespereira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://instagram.com/ogui.lopes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+# Hi there, I'm Guilherme Pereira! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A6F0&width=450&lines=Senior+Software+Engineer;Full+Stack+.NET+%7C+Angular;CVS+Health+Engineer;Freelance+App+Developer" alt="Typing SVG" />
 </div>
-<br>
-<br>
-<div align="center" style="display: inline_block">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=github_dark&hide_border=true&locale=en"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=github_dark&hide_border=true&locale=en"/>
+
+### 🚀 About Me
+I am a **Senior Software Engineer** with over 7 years of experience building high-impact solutions. Currently, I am part of the engineering team at **CVS Health**, contributing to large-scale healthcare platforms.
+
+Beyond my corporate role, I am a **passionate Independent Developer**, building custom systems and mobile applications for diverse clients, helping businesses scale through technology.
+
+* 💼 **Current Role:** Senior Engineer at **CVS Health**.
+* 🛠️ **Side Projects:** Fullstack Web & Mobile Development (Freelance).
+* ⚡ **Main Stack:** .NET Core, Angular, SQL Server & Cloud Architecture.
+* 🧠 **Philosophy:** Clean Code, DDD, and Scalability.
+
+---
+
+### 🛠️ Tech Stack & Skills
+My core expertise for corporate and independent projects:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-<br>
-<br>
-<div style="display: inline_block"><br>
-<p align="center">
-&nbsp;&nbsp;
-<img align="center" alt="HTML" 
-     ="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-&nbsp;&nbsp;
-<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-&nbsp;&nbsp;
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopprera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopprera&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Connect with me
+I'm always open to discussing new technologies or interesting projects!
+
+<p align="left">
+<a href="https://linkedin.com/in/guilhermelopespereira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="guilhermelopespereira" /></a>
+<a href="mailto:gui-lopespereira@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-</div>
-<br>
-<br>
